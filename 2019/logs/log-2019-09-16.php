@@ -1,0 +1,52 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-09-16 02:56:53 --> a:3:{s:4:"name";s:27:"realisasi_capaian_t_tahun_1";s:5:"value";s:2:"86";s:2:"pk";s:3:"396";}
+ERROR - 2019-09-16 02:57:26 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b3";s:5:"value";s:2:"51";s:2:"pk";s:3:"396";}
+ERROR - 2019-09-16 03:00:47 --> a:3:{s:4:"name";s:27:"realisasi_capaian_t_tahun_1";s:5:"value";s:5:"46422";s:2:"pk";s:3:"399";}
+ERROR - 2019-09-16 03:02:30 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b1";s:5:"value";s:5:"11605";s:2:"pk";s:3:"399";}
+ERROR - 2019-09-16 03:02:43 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b2";s:5:"value";s:5:"11606";s:2:"pk";s:3:"399";}
+ERROR - 2019-09-16 03:02:51 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b3";s:5:"value";s:5:"11605";s:2:"pk";s:3:"399";}
+ERROR - 2019-09-16 03:02:59 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b4";s:5:"value";s:5:"11606";s:2:"pk";s:3:"399";}
+ERROR - 2019-09-16 03:15:14 --> a:3:{s:4:"name";s:27:"realisasi_capaian_t_tahun_1";s:5:"value";s:2:"53";s:2:"pk";s:3:"400";}
+ERROR - 2019-09-16 03:15:21 --> a:3:{s:4:"name";s:27:"realisasi_capaian_t_tahun_1";s:5:"value";s:2:"87";s:2:"pk";s:3:"685";}
+ERROR - 2019-09-16 03:15:34 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b1";s:5:"value";s:1:"0";s:2:"pk";s:3:"400";}
+ERROR - 2019-09-16 03:15:40 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b2";s:5:"value";s:1:"0";s:2:"pk";s:3:"400";}
+ERROR - 2019-09-16 03:15:45 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b3";s:5:"value";s:1:"0";s:2:"pk";s:3:"400";}
+ERROR - 2019-09-16 03:15:52 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b4";s:5:"value";s:2:"53";s:2:"pk";s:3:"400";}
+ERROR - 2019-09-16 03:15:59 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b4";s:5:"value";s:2:"87";s:2:"pk";s:3:"685";}
+ERROR - 2019-09-16 03:23:32 --> a:3:{s:4:"name";s:27:"realisasi_capaian_t_tahun_1";s:5:"value";s:1:"2";s:2:"pk";s:3:"402";}
+ERROR - 2019-09-16 03:23:38 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b4";s:5:"value";s:1:"2";s:2:"pk";s:3:"402";}
+ERROR - 2019-09-16 03:24:38 --> a:3:{s:4:"name";s:27:"realisasi_capaian_t_tahun_1";s:5:"value";s:2:"61";s:2:"pk";s:3:"403";}
+ERROR - 2019-09-16 03:24:51 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b1";s:5:"value";s:1:"0";s:2:"pk";s:3:"403";}
+ERROR - 2019-09-16 03:24:56 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b2";s:5:"value";s:1:"0";s:2:"pk";s:3:"403";}
+ERROR - 2019-09-16 03:25:01 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b3";s:5:"value";s:1:"0";s:2:"pk";s:3:"403";}
+ERROR - 2019-09-16 03:25:07 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b4";s:5:"value";s:2:"61";s:2:"pk";s:3:"403";}
+ERROR - 2019-09-16 03:25:33 --> a:3:{s:4:"name";s:27:"realisasi_capaian_t_tahun_1";s:5:"value";s:2:"22";s:2:"pk";s:3:"404";}
+ERROR - 2019-09-16 03:25:44 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b1";s:5:"value";s:1:"5";s:2:"pk";s:3:"404";}
+ERROR - 2019-09-16 03:25:49 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b2";s:5:"value";s:1:"5";s:2:"pk";s:3:"404";}
+ERROR - 2019-09-16 03:25:54 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b3";s:5:"value";s:1:"5";s:2:"pk";s:3:"404";}
+ERROR - 2019-09-16 03:26:00 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b4";s:5:"value";s:1:"7";s:2:"pk";s:3:"404";}
+ERROR - 2019-09-16 03:27:17 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b5";s:5:"value";s:1:"3";s:2:"pk";s:3:"395";}
+ERROR - 2019-09-16 03:27:22 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b6";s:5:"value";s:1:"3";s:2:"pk";s:3:"395";}
+ERROR - 2019-09-16 03:27:35 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b7";s:5:"value";s:1:"3";s:2:"pk";s:3:"395";}
+ERROR - 2019-09-16 03:38:38 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b6";s:5:"value";s:1:"0";s:2:"pk";s:3:"396";}
+ERROR - 2019-09-16 03:38:44 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b8";s:5:"value";s:2:"86";s:2:"pk";s:3:"396";}
+ERROR - 2019-09-16 03:49:27 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b6";s:5:"value";s:1:"0";s:2:"pk";s:3:"397";}
+ERROR - 2019-09-16 03:49:55 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b6";s:5:"value";s:3:"100";s:2:"pk";s:3:"397";}
+ERROR - 2019-09-16 03:54:14 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b1";s:5:"value";s:1:"0";s:2:"pk";s:3:"396";}
+ERROR - 2019-09-16 03:54:20 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b2";s:5:"value";s:1:"0";s:2:"pk";s:3:"396";}
+ERROR - 2019-09-16 03:54:30 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b3";s:5:"value";s:1:"0";s:2:"pk";s:3:"396";}
+ERROR - 2019-09-16 03:54:36 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b4";s:5:"value";s:2:"86";s:2:"pk";s:3:"396";}
+ERROR - 2019-09-16 04:48:30 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b5";s:5:"value";s:5:"11605";s:2:"pk";s:3:"399";}
+ERROR - 2019-09-16 04:48:38 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b6";s:5:"value";s:5:"11606";s:2:"pk";s:3:"399";}
+ERROR - 2019-09-16 04:49:53 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b5";s:5:"value";s:1:"0";s:2:"pk";s:3:"400";}
+ERROR - 2019-09-16 04:50:01 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b6";s:5:"value";s:1:"0";s:2:"pk";s:3:"400";}
+ERROR - 2019-09-16 04:50:07 --> Severity: Warning --> Invalid argument supplied for foreach() /opt/lampp/htdocs/e-monev/2019/views/evaluasi/permasalahan/penghambat.php 81
+ERROR - 2019-09-16 04:50:20 --> Severity: Warning --> Invalid argument supplied for foreach() /opt/lampp/htdocs/e-monev/2019/views/evaluasi/permasalahan/pendorong.php 80
+ERROR - 2019-09-16 04:50:34 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b5";s:5:"value";s:1:"5";s:2:"pk";s:3:"400";}
+ERROR - 2019-09-16 04:50:39 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b6";s:5:"value";s:2:"10";s:2:"pk";s:3:"400";}
+ERROR - 2019-09-16 04:53:47 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b5";s:5:"value";s:2:"10";s:2:"pk";s:3:"685";}
+ERROR - 2019-09-16 04:54:05 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b6";s:5:"value";s:2:"20";s:2:"pk";s:3:"685";}
+ERROR - 2019-09-16 04:55:12 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b6";s:5:"value";s:1:"5";s:2:"pk";s:3:"404";}
+ERROR - 2019-09-16 04:55:18 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b5";s:5:"value";s:1:"3";s:2:"pk";s:3:"404";}
+ERROR - 2019-09-16 04:55:31 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b5";s:5:"value";s:1:"5";s:2:"pk";s:3:"404";}

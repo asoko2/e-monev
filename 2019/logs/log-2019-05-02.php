@@ -1,0 +1,35 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-05-02 08:32:33 --> a:3:{s:4:"name";s:27:"realisasi_capaian_t_tahun_1";s:5:"value";s:3:"100";s:2:"pk";s:3:"338";}
+ERROR - 2019-05-02 08:32:40 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b1";s:5:"value";s:5:"25.00";s:2:"pk";s:3:"338";}
+ERROR - 2019-05-02 08:32:43 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b2";s:5:"value";s:5:"25.00";s:2:"pk";s:3:"338";}
+ERROR - 2019-05-02 08:32:46 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b3";s:5:"value";s:5:"25.00";s:2:"pk";s:3:"338";}
+ERROR - 2019-05-02 08:32:51 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b4";s:5:"value";s:5:"25.00";s:2:"pk";s:3:"338";}
+ERROR - 2019-05-02 08:33:05 --> a:3:{s:4:"name";s:27:"realisasi_capaian_t_tahun_1";s:5:"value";s:3:"100";s:2:"pk";s:3:"339";}
+ERROR - 2019-05-02 08:33:11 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b1";s:5:"value";s:5:"25.00";s:2:"pk";s:3:"339";}
+ERROR - 2019-05-02 08:33:16 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b2";s:5:"value";s:5:"25.00";s:2:"pk";s:3:"339";}
+ERROR - 2019-05-02 08:33:22 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b3";s:5:"value";s:5:"25.00";s:2:"pk";s:3:"339";}
+ERROR - 2019-05-02 08:34:00 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b4";s:5:"value";s:5:"25.00";s:2:"pk";s:3:"339";}
+ERROR - 2019-05-02 08:35:11 --> a:3:{s:4:"name";s:27:"realisasi_capaian_t_tahun_1";s:5:"value";s:3:"100";s:2:"pk";s:3:"340";}
+ERROR - 2019-05-02 08:35:17 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b1";s:5:"value";s:2:"25";s:2:"pk";s:3:"340";}
+ERROR - 2019-05-02 08:35:28 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b1";s:5:"value";s:1:"0";s:2:"pk";s:3:"340";}
+ERROR - 2019-05-02 08:35:34 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b3";s:5:"value";s:3:"100";s:2:"pk";s:3:"340";}
+ERROR - 2019-05-02 08:35:44 --> a:3:{s:4:"name";s:27:"realisasi_capaian_t_tahun_1";s:5:"value";s:3:"100";s:2:"pk";s:3:"341";}
+ERROR - 2019-05-02 08:35:48 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b1";s:5:"value";s:5:"25.00";s:2:"pk";s:3:"341";}
+ERROR - 2019-05-02 08:35:52 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b2";s:5:"value";s:5:"25.00";s:2:"pk";s:3:"341";}
+ERROR - 2019-05-02 08:35:57 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b3";s:5:"value";s:5:"25.00";s:2:"pk";s:3:"341";}
+ERROR - 2019-05-02 08:36:03 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b4";s:5:"value";s:5:"25.00";s:2:"pk";s:3:"341";}
+ERROR - 2019-05-02 08:49:35 --> a:3:{s:4:"name";s:27:"realisasi_capaian_t_tahun_1";s:5:"value";s:3:"100";s:2:"pk";s:3:"342";}
+ERROR - 2019-05-02 08:49:39 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b1";s:5:"value";s:5:"25.00";s:2:"pk";s:3:"342";}
+ERROR - 2019-05-02 08:49:44 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b2";s:5:"value";s:5:"25.00";s:2:"pk";s:3:"342";}
+ERROR - 2019-05-02 08:49:47 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b3";s:5:"value";s:5:"25.00";s:2:"pk";s:3:"342";}
+ERROR - 2019-05-02 08:49:52 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b4";s:5:"value";s:5:"25.00";s:2:"pk";s:3:"342";}
+ERROR - 2019-05-02 08:50:03 --> a:3:{s:4:"name";s:27:"realisasi_capaian_t_tahun_1";s:5:"value";s:3:"100";s:2:"pk";s:3:"343";}
+ERROR - 2019-05-02 08:50:07 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b1";s:5:"value";s:5:"25.00";s:2:"pk";s:3:"343";}
+ERROR - 2019-05-02 08:50:10 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b2";s:5:"value";s:5:"25.00";s:2:"pk";s:3:"343";}
+ERROR - 2019-05-02 08:50:14 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b3";s:5:"value";s:5:"25.00";s:2:"pk";s:3:"343";}
+ERROR - 2019-05-02 08:50:18 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b4";s:5:"value";s:5:"25.00";s:2:"pk";s:3:"343";}
+ERROR - 2019-05-02 09:01:37 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b5";s:5:"value";s:5:"25.00";s:2:"pk";s:3:"338";}
+ERROR - 2019-05-02 09:01:45 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b5";s:5:"value";s:5:"25.00";s:2:"pk";s:3:"339";}
+ERROR - 2019-05-02 09:02:02 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b5";s:5:"value";s:5:"25.00";s:2:"pk";s:3:"342";}
+ERROR - 2019-05-02 09:02:09 --> a:3:{s:4:"name";s:30:"realisasi_capaian_r_tahun_1_b5";s:5:"value";s:5:"25.00";s:2:"pk";s:3:"343";}

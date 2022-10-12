@@ -1,0 +1,3 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-04-22 03:15:10 --> 404 Page Not Found: Javascripts/ie.min.js
